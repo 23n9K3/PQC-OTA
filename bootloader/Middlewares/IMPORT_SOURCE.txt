@@ -1,0 +1,5 @@
+Imported from:
+C:/Users/3nigma/Desktop/armPrj/ML-DSA-TEST/ML-DSA/Middlewares/MLDSA65
+
+Only the MLDSA_CLEAN_M4 pure-C core is integrated. No M4F or assembly target
+sources are used by the bootloader project.
